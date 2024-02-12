@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//this is a sampler change
 #define ROWS1 3 // Number of rows in the first matrix
 #define COLS1 2 // Number of columns in the first matrix
 #define COLS2 3 // Number of columns in the second matrix
